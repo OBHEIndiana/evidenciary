@@ -10,13 +10,7 @@
     "id": "http://example.com"
   },
   "pathwaySteps": [
-    {
-      "id": "https://docs.google.com/document/d/19zzHafHFtme6GEQRIF7QU-NXTtDNrHxF92oGjna2iIQ",
-      "type": "PathwayStep",
-      "name": "Introduction to Learning Analytics",
-      "description": "Demonstrate the ability to articulate and discuss the following aspects of Systemic/Instructional improvements in relevant professional contexts: The Primary Components of Data Driven Decision Making (DDDM); Define a DDDM framework and identify potential challenges to applying DDDM to educational systems and instruction; Apply potential recommendations for using evidence to drive instruction; Sources of evidence and data for driving instructional improvement.",
-      "earnedBadgeInstance": []
-    },
+    
     {
       "id": "https://drive.google.com/file/d/0BwVmT-z8q7TxN1RmRmFaSC1uMlk",
       "type": "PathwayStep",
