@@ -100,11 +100,9 @@ layout: default
                           </p>
                           {% if badge.json.evidence or badge.instance_url and badge.recipient %}
                             <p>
-                              {% if badge.instance_url and badge.recipient %}
-                              <a class="btn btn-primary" href="https://badgecheck.io/?url={{badge.instance_url | cgi_escape }}&recipientId={{badge.recipient | cgi_escape }}"><i class="fa fa-check-circle"></i>Verify</a>
-                              {% endif %}
+                              
                               {% if badge.json.evidence %}
-                              <a class="btn btn-info" href="{{ badge.json.evidence }}"><i class="fa fa-globe"></i>Evidence</a>
+                              <a class="btn btn-info" href="http://obheindiana.github.io/evidenciary/posts/eds_11.html"><i class="fa fa-globe"></i>Evidence</a>
                               {% endif %}
                             </p>
                           {% endif %}
