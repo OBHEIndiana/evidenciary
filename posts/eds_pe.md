@@ -1,7 +1,7 @@
 ---
 pathway: eds_pe
 markdown: kramdown
-layout: post
+layout: post_pe
 title: "Educational Data Sciences Learning Pathway"
 date: 2015-09-03
 ---
