@@ -1,5 +1,5 @@
 ---
-pathway: eds_10
+pathway: eds_pe
 markdown: kramdown
 layout: post
 title: "Educational Data Sciences Learning Pathway"
