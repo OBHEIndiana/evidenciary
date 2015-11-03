@@ -6,7 +6,7 @@
   "recipient": {
     "type": "schema:Person",
     "name": "Sandie Stringfellow",
-    "identity": "sm******w@dons.usfca.ed"
+    "identity": "sm******w@dons.usfca.edu"
   },
   "pathwaySteps": [
    {
@@ -21,7 +21,7 @@
     "id": "",
     "type": "PathwayStep",
     "name": "Participatory Engagement",
-    "description": "In order to receive this badge, the participant had to activiely particpate in discussions with other students.",
+    "description": "The recipient of this badge displayed excellent participatory engagement. ",
     "earnedBadgeInstance": []
   },
   "issuer": {
